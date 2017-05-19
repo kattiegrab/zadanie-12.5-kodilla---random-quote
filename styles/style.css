@@ -1,0 +1,26 @@
+body {
+	background: url(https://images.pexels.com/photos/256424/pexels-photo-256424.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb) 0/cover no-repeat;
+	height: 100vh;
+	position: relative;
+}
+main {
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 170, 170, 0.5);
+    min-height: 50vh;
+    border-radius: 5%;
+}
+h1 {
+	color: white;
+}
+i.fa {
+	font-size: 40px;
+	line-height: 40px;
+}
+a {
+	font-size: 20px;
+	text-decoration: none;
+}
